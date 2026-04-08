@@ -1,0 +1,15 @@
+# Huge data - do not upload
+LRG/
+BGS/
+17716780.zip
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Optional system/log files
+*.log
+.DS_Store
