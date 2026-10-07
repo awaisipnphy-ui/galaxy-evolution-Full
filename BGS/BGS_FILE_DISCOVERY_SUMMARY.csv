@@ -1,0 +1,35 @@
+file,zcol,masscol,envcol,redcol,error,rows,zmin,zmax,bin_0.15_0.25,bin_0.25_0.35,bin_0.35_0.45,bin_0.45_0.55,bgs_total_in_range
+BGS_Color_Mass_Otsu_FINAL.csv,Z,LOG_MASS_CG,,,,1405505.0,2.8897690778992367e-06,0.6999985971532185,39531.0,220260.0,669857.0,368643.0,1298291.0
+BGS_Stage2_Color_StellarMass_FINAL.csv,Z_QN,LOG_MASS_CG,,COLOR_TYPE,,5076209.0,-0.2526884705555633,5.436613774398104,3710.0,16548.0,58885.0,77931.0,157074.0
+BGS_cube_randoms.csv,z,,,,,67888272.0,8.331226e-08,799.9999,20778.0,20750.0,20706.0,20650.0,82884.0
+BGS_with_env.csv,Z_QN,LOG_MASS_CG,env_name,is_red,,900574.0,-0.1959814548094244,5.366393541110107,747.0,3454.0,12697.0,16642.0,33540.0
+BGS_STAGE3_MASTER.csv,Z_QN,LOG_MASS_CG,env_name,is_red,,32793.0,0.2505366823778261,0.5499995783535585,0.0,3454.0,12697.0,16642.0,32793.0
+BGS_cube_galaxies.csv,z,,,,,1134399.0,9.193392139605452e-05,799.999331763171,435.0,442.0,453.0,473.0,1803.0
+BGS_red_blue_summary.csv,z,,,,,4.0,,,0.0,0.0,0.0,0.0,0.0
+BGS_summary_fixed.csv,z,,,,,4.0,,,0.0,0.0,0.0,0.0,0.0
+BGS_AUDIT_RF_BF_highmass_10p5_12.csv,,,env_name,,no redshift column,,,,,,,,
+BGS_RRF_RBF_vs_Z_env_highmass.csv,,,,,no redshift column,,,,,,,,
+BGS_RF_BF_vs_Z_env_highmass.csv,,,,,no redshift column,,,,,,,,
+BGS_AUDIT_RRF_RBF_highmass_10p5_12p5.csv,,,env_name,,no redshift column,,,,,,,,
+BGS_colour_counts_by_env_z_pivot.csv,,,,,no redshift column,,,,,,,,
+BGS_RRF_RBF_full_4bins.csv,,,,,no redshift column,,,,,,,,
+BGS_RF_BF_vs_Z_env_4bins.csv,,,,,no redshift column,,,,,,,,
+BGS_AUDIT_RRF_RBF_highmass_gt11.csv,,,env_name,,no redshift column,,,,,,,,
+BGS_AUDIT_RRF_RBF_full.csv,,,env_name,,no redshift column,,,,,,,,
+BGS_colour_mean_std_by_env_z_long.csv,,,,,no redshift column,,,,,,,,
+BGS_AUDIT_RRF_RBF_highmass_10p5_12.csv,,,env_name,,no redshift column,,,,,,,,
+BGS_red_blue_summary_paper.csv,,,,,no redshift column,,,,,,,,
+BGS_AUDIT_RF_BF_highmass_gt11.csv,,,env_name,,no redshift column,,,,,,,,
+BGS_RRF_RBF_highmass_4bins.csv,,,,,no redshift column,,,,,,,,
+BGS_red_blue_counts_massdep_otsu_4bins_all_highmass.csv,,,,,no redshift column,,,,,,,,
+BGS_AUDIT_RF_BF_full.csv,,,env_name,,no redshift column,,,,,,,,
+BGS_RF_BF_vs_Z_env_full.csv,,,,,no redshift column,,,,,,,,
+BGS_RRF_RBF_vs_Z_env_4bins.csv,,,,,no redshift column,,,,,,,,
+BGS_lowz_RBF_gt11.csv,,,env_name,,no redshift column,,,,,,,,
+BGS_RF_vs_mass_table.csv,,,,,no redshift column,,,,,,,,
+BGS_MANUSCRIPT_COUNTS_COMPARISON_full.csv,,,,,no redshift column,,,,,,,,
+BGS_lowz_RBF_10p5_12.csv,,,env_name,,no redshift column,,,,,,,,
+BGS_RRF_RBF_vs_Z_env_full.csv,,,,,no redshift column,,,,,,,,
+BGS_colour_mean_std_by_env_z_pivot.csv,,,,,no redshift column,,,,,,,,
+BGS_lowz_RBF_10p5_12p5.csv,,,env_name,,no redshift column,,,,,,,,
+BGS_AUDIT_RF_BF_highmass_10p5_12p5.csv,,,env_name,,no redshift column,,,,,,,,

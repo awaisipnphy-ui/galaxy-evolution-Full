@@ -1,0 +1,16 @@
+a/density_cube_800Mpc.h5 filter=lfs diff=lfs merge=lfs -text
+a/tweb_environment_800Mpc.h5 filter=lfs diff=lfs merge=lfs -text
+a/LRG_M2p1_color_classified.csv filter=lfs diff=lfs merge=lfs -text
+a/LRG_Stage2_Color_StellarMass_FINAL.csv filter=lfs diff=lfs merge=lfs -text
+a/combined_800Mpc_cube.csv filter=lfs diff=lfs merge=lfs -text
+a/randoms_800Mpc_cube.csv filter=lfs diff=lfs merge=lfs -text
+17716780.zip filter=lfs diff=lfs merge=lfs -text
+BGS/BGS_cube.h5 filter=lfs diff=lfs merge=lfs -text
+BGS/BGS_Stage2_Color_StellarMass_FINAL.csv filter=lfs diff=lfs merge=lfs -text
+BGS/tweb_environment_BGS_800Mpc.h5 filter=lfs diff=lfs merge=lfs -text
+BGS/BGS_full_otsu_mergecheck_with_env.csv filter=lfs diff=lfs merge=lfs -text
+BGS/BGS_cube_randoms.csv filter=lfs diff=lfs merge=lfs -text
+BGS/BGS_with_env.csv filter=lfs diff=lfs merge=lfs -text
+BGS/density_cube_BGS_800Mpc.h5 filter=lfs diff=lfs merge=lfs -text
+BGS/BGS_Color_Mass_Otsu_FINAL.csv filter=lfs diff=lfs merge=lfs -text
+17716780.zip.parts/part-* filter=lfs diff=lfs merge=lfs -text

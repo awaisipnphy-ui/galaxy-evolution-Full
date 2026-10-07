@@ -1,0 +1,5 @@
+env_name,n_blue,rbf,selection
+Void,,,"0.15<=z<0.25, 10.5<logM<12.5"
+Sheet,,,"0.15<=z<0.25, 10.5<logM<12.5"
+Filament,,,"0.15<=z<0.25, 10.5<logM<12.5"
+Knot,,,"0.15<=z<0.25, 10.5<logM<12.5"
